@@ -1,2 +1,4 @@
 # Newone
-This is my first git depository 
+This is my first git depository.
+Author - Om Mankar.
+
